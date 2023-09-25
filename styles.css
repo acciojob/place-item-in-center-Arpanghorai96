@@ -1,20 +1,18 @@
-   *{
-            padding: 0;
-            margin: 0;
-        }
-	    .holder{
-            display: flex;
-            justify-content: center;
-            align-items: center;
-			height: 100vh;
-            width:100vw;
-        }
-        .item-1{
-            height: 100px;
-            width: 100px;
-            background-color: red;
-			display: flex;
-            justify-content: center;
-            align-items: center;
-        }
+.holder {
+    display: flex;           
+    justify-content: center;  
+    align-items: center;     
+    width: 100vw;            
+    height: 100vh;          
+}
+
+/* Apply these styles to item-1 */
+.item-1 {
+    width: 100px;            
+    height: 100px;           
+    background-color: red;    
+    display: flex;           
+    justify-content: center; 
+    align-items: center;      
+}
 /* Your CSS Code here. */
