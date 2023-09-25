@@ -2,7 +2,7 @@
             padding: 0;
             margin: 0;
         }
-        .holder{
+       div .holder{
             height: 100vh;
             width:100vw;
             display: flex;
